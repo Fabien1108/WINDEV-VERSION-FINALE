@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Utilisateurs		TAR	136	nouvelle taille enregistrement : 136
+Utilisateurs	ID_utilisateurs	TAI-	18	la rubrique ID_utilisateurs a comme nouvelle taille 51 au lieu de 69
